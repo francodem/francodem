@@ -1,3 +1,5 @@
-Highly skilled software engineer with +2 years of experience in backend development, as well as proficiency in IoT and AWS cloud. Strong background in automated software testing. Driven to create innovative solutions through effective implementation of software technology.
+Software Engineer | Cloud & Backend Specialist | AI Enthusiast
 
-Currently working for a project related with an autonomous vehicle for private transport of a US customer, implementing a cloud infrastructure using AWS, and backend development with Python. Keys: Distributed systems, backend, Cloud. 
+Passionate software engineer with over 3 years of hands-on experience in cloud and backend development using Python. Currently pursuing a Master's Degree in AI, soon transitioning to an M.Sc. in Engineering and Science applied to Self-driving technologies.
+
+Interests: Site Reliability Engineering (SRE), Cloud Computing, Distributed Systems, AI/ML, Autonomous Systems.
