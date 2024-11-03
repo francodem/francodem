@@ -1,5 +1,41 @@
-Software Engineer | Cloud & Backend Specialist | AI Enthusiast
+<h1 align="center">👋 Hi, I'm [Your Name]</h1>
+<h3 align="center">SRE & DevOps Engineer | ML Enthusiast | Cloud Architect</h3>
 
-Passionate software engineer with over 3 years of hands-on experience in cloud and backend development using Python. Currently pursuing a Master's Degree in AI, soon transitioning to an M.Sc. in Engineering and Science applied to Self-driving technologies.
+### 🛠 About Me
 
-Interests: Site Reliability Engineering (SRE), Cloud Computing, Distributed Systems, AI/ML, Autonomous Systems.
+🔧 **SRE & DevOps Engineer** with 4+ years of experience in Fortune 500 environments
+
+🚀 Specialized in:
+  - Autonomous Systems & IoT
+  - Cloud-Native Technologies
+  - Production Support & Incident Response
+
+🌟 **Key Achievements**:
+  - Architected OTA update systems for autonomous vehicles
+  - Implemented enterprise IoT solutions
+  - Built infrastructure supporting 80M+ users
+
+🎓 **Education**: Master's in Artificial Intelligence
+
+### 💻 Technical Stack
+
+🌩️ **Cloud Platforms**
+- AWS | Azure | Kubernetes | Terraform
+
+🔄 **DevOps & SRE**
+- CI/CD | Infrastructure as Code | Observability
+- Site Reliability | Incident Management
+
+🤖 **Development**
+- Python | MLOps | Computer Vision
+- Infrastructure Automation | IoT
+
+### 🎯 Current Focus
+- Cloud-Native Architectures
+- ML-Driven Infrastructure Optimization
+- SRE Best Practices
+
+---
+<p align="center">
+💡 Building reliable systems at scale | 🤝 Open for collaboration | 🌱 Always learning
+</p>
