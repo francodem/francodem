@@ -1,21 +1,24 @@
 <h1 align="center">👋 Hi, I'm Francisco Moreno</h1>
-<h3 align="center">SRE & DevOps Engineer | M.Sc. AI/ML | Cloud Solutions</h3>
+<h3 align="center">SRE & DevOps Engineer | M.D. Artificial Intelligence | Cloud Solutions</h3>
 
 ### 🛠 About Me
 
-🔧 **SRE & DevOps Engineer** with 4+ years of experience in Fortune 500 environments
+🔧 **SRE & DevOps Engineer** with nearly 5 years of experience working for startups and large-scale organizations.
 
 🚀 Specialized in:
-  - Autonomous Systems & IoT
-  - Cloud-Native Technologies
-  - Production Support & Incident Response
+  - Systems reliability
+  - Cloud-Native technologies
+  - Cluster administration (K8s)
+  - Production support & incident response
 
 🌟 **Key Achievements**:
-  - Architected OTA update systems for autonomous vehicles
-  - Implemented enterprise IoT solutions
-  - Built infrastructure supporting 80M+ users
+  - Built infrastructure supporting 80M+ users 
+  - Architected OTA update systems for autonomous vehicles and autonomous robots (AMRs)
+  - Implemented enterprise IoT solutions 
 
-🎓 **Education**: Master's in Artificial Intelligence
+🎓 **Education**: 
+- Master's Degree in Artificial Intelligence - Universidad Internacional de la Rioja (UNIR), 2025
+- B.Sc. Electronic Engineering - Universidad Autónoma de Baja California (UABC), 2022
 
 ### 💻 Technical Stack
 
@@ -27,15 +30,18 @@
 - Site Reliability | Incident Management
 
 🤖 **Development**
-- Python | MLOps | Computer Vision
+- Python | MLOps | Computer Vision | Forecasting 
 - Infrastructure Automation | IoT
+- n8n | LLM Agents | RAG | Agent Architectures
 
 ### 🎯 Current Focus
+- MLOps 
 - Cloud-Native Architectures
 - ML-Driven Infrastructure Optimization
 - SRE Best Practices
+- DevOps
 
 ---
 <p align="center">
-💡 Building reliable systems at scale | 🤝 Open for collaboration | 🌱 Always learning
+💡 Building reliable systems at scale | 🤝 Open for collaboration | 🌱 Always learning n' love it
 </p>
