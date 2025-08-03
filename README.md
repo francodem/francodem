@@ -43,5 +43,5 @@
 
 ---
 <p align="center">
-💡 Building reliable systems at scale | 🤝 Open for collaboration | 🌱 Always learning n' love it
+💡 Building reliable systems at scale | 🤝 Open for collaboration | 🌱 Always learning n' I love it
 </p>
